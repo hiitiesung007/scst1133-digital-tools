@@ -13,7 +13,9 @@ Digital tools activities for SCST1133 Data Engineering Ecosystem
 ### GitHub
 What I had learned :
 Know how to commit changes and publish my first course website
+
 https://github.com/hiitiesung007/scst1133-digital-tools
+Website : https://hiitiesung007.github.io/scst1133-digital-tools/
 
 
 ### Figma
